@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontendmentor.io Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
 - Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
@@ -29,7 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
 
@@ -44,5 +43,5 @@ In this project I wanted to practice using Flexbox to align the contents of the 
 
 ## Author
 
-- Linkedin - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Linkedin - [matheuskrieck](https://www.linkedin.com/in/matheuskrieck/)
+- Frontend Mentor - [@matheuskrieck](https://www.frontendmentor.io/profile/matheuskrieck)
