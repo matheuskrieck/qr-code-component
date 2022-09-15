@@ -33,6 +33,10 @@ img {
     border-radius: 20px;
 }
 
+img:hover {
+    cursor: pointer;
+}
+
 h1, p {
     text-align: center;
     font-style: normal;
@@ -44,10 +48,6 @@ h1 {
     line-height: 28px;
     padding: 24px 16px 16px 19px;
     color: #1F314F;
-}
-
-h1:hover {
-    color: #3685FF;
 }
 
 p {
